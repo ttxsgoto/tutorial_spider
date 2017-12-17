@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/
+tutorial_spider/utils/zhihu_login_request.py
+tutorial_spider/__pycache__
